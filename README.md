@@ -39,10 +39,10 @@ The project has three main parts:
 4. Char-level CNN (Model 3): Uses char_vectorizer, char_embed, and Conv1D for character-level text classification.
 5. Char-level + Token-level CNN (Model 4): Combines character-level and token-level features using Conv1D for text classification.
 
-##Results:
+## Results:
 Model 0 (Pipeline) achieved the best results.
 
-##Next Steps:
+## Next Steps:
 Generated summaries of reviews using a generative approach.
 Performed KMeans clustering to identify themes and trends in reviews.
 Conclusion:
